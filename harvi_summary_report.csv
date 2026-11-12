@@ -1,0 +1,4 @@
+﻿Group,Participants,Average Before,Average After,Score Change,Percentage Change (%),Improved,Worsened,Unchanged,T-Statistic,P-Value,Statistically Significant,Conclusion
+Pilot,9,52.67,69.22,16.56,31.43,2,7,0,2.6954,0.027266514,Yes,Significant worsening
+Technology,1000,54.26,44.55,-9.72,-17.91,599,389,12,-8.2538,4.818312e-16,Yes,Significant improvement
+Marketing,1000,51.3,49.9,-1.4,-2.74,512,478,10,-1.1157,0.2648386,No,No statistically significant change
