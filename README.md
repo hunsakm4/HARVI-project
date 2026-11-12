@@ -57,10 +57,8 @@ Open the VS Code terminal and navigate to the project directory.
 Run:
 
 ```powershell
-python your_script_name.py
+python HARVI_Project.py
 ```
-
-Replace `your_script_name.py` with the actual filename.
 
 Alternatively, use the **Run Python File** button in VS Code.
 
